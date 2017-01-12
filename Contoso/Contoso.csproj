@@ -157,6 +157,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\StoreController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
     <Compile Include="DAL\SchoolContext.cs" />
     <Compile Include="DAL\SchoolInitializer.cs" />
@@ -214,6 +215,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Store\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
