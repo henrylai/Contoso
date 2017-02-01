@@ -55,3 +55,7 @@ C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\EntityFramework.d
 C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\EntityFramework.SqlServer.dll
 C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\EntityFramework.xml
 C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\EntityFramework.SqlServer.xml
+C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\PagedList.dll
+C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\PagedList.Mvc.dll
+C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\PagedList.xml
+C:\Users\henryl93.NETID\Dropbox\VSProjects\Contoso\Contoso\bin\PagedList.Mvc.xml
